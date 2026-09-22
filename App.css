@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.Header{
+  width: 100%;
+  height: 40px;
+  color: white;
+  background-color: Red;
+  margin:0;
+  align-items:center;
+}
+.Navbar{
+  width: 100%;
+  height: 40px;
+  display: flew;
+  justify-content: space-between;
+  color: white;
+  background-color: black;
+  margin:0;
+  align-items:center;
+}
+.Navbar a{
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+  align-items:center;
+}
+.Footer{
+  width: 100%;
+  height: 90px;
+  color: white;
+  background-color: Red;
+  margin:0;
+  align-items:center;
+}
+.Home{  
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  background-color: #f8f9fa; 
+  padding: 20px;
+  flex-wrap: wrap;
+  align-items:center;
+}
